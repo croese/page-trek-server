@@ -32,3 +32,6 @@
 [[constraint]]
   name = "github.com/go-chi/chi"
   version = "3.3.3"
+
+[metadata.heroku]
+  root-package = "github.com/croese/page-trek-server"
